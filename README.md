@@ -77,7 +77,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%3E+watch+me+play+a+snake+game;" />
 </h1>
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" align="center"/>
+<div align="center">
+  <img src="https://github.com/Alishba-Malik/Alishba-Malik/blob/output/github-snake-dark.svg" alt="snake gif">
+</div>
+
 
 ---
 
