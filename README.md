@@ -78,7 +78,11 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/Alishba-Malik/Alishba-Malik/blob/output/github-snake-dark.svg" alt="snake gif">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Alishba-Malik/Alishba-Malik/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Alishba-Malik/Alishba-Malik/blob/output/github-snake.svg" />
+    <img src="https://github.com/Alishba-Malik/Alishba-Malik/blob/output/github-snake.svg" alt="GitHub Snake animation" />
+   </picture>
 </div>
 
 
