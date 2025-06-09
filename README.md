@@ -2,7 +2,7 @@
 
 <div align="left">
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=08E0C6&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%3E+Hello%2C+Explorer!;%3E+Alishba+Malik+here;%3E+The+Web3+attacker+and+smart+contract+exploiter." />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=08E0C6&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%3E+Hey!;%3E+Alishba+here;%3E+The+Web3+attacker+and+smart+contract+exploiter." />
   </h1>
 
   <h1 align="center">
