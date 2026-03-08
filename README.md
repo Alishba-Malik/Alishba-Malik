@@ -103,7 +103,7 @@
 </h1>
 
 <div align="center">
-  <a href="mailto:alishbamalick@gmail.com">
+  <a href="mailto:alishbamalik1080@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/alishba-malik-">
